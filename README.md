@@ -1,11 +1,18 @@
-# A History of Esports ([history-of-esports](https://github.com/hubwub/history-of-esports))
-Written by Patrick Howell O’Neill
-Maintained by Anne Celestino
+“Everybody saw us, kids pointed, cars honked, girls waved. We were gods.”
+
+Walter Day, creator of the U.S. National Video Game Team in 1983, touring the nation.
 
 ---
+
+# A History of Esports ([history-of-esports](https://github.com/hubwub/history-of-esports))
+
+Written by Patrick Howell O’Neill
+
+Maintained by Anne Celestino
+
 # Index
 
-1.	Introduction
+1.	[Introduction](01-introduction.md)
 2.	The Beginning (1950s)
 3.	Spacewar! (1962)
 4.	Ralph Baer, The Father of Video Games (1972)
