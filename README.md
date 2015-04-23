@@ -13,8 +13,8 @@ Maintained by Anne Celestino
 # Index
 
 1.	[Introduction](01-introduction.md)
-2.	The Beginning (1950s)
-3.	Spacewar! (1962)
+2.	[The Beginning (1950s)](02-the-beginning.md)
+3.	[Spacewar! (1962)](03-spacewar.md)
 4.	Ralph Baer, The Father of Video Games (1972)
 5.	Pong (1972)
 6.	Atari’s Prolific Peak (1972)
