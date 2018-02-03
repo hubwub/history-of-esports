@@ -16,7 +16,7 @@ By late 1985, it had been renamed the Nintendo Entertainment System. It entered 
 
 Nintendo games and characters such as *Mario, Donkey Kong, Punch Out* and *Duck Hunt* have come to define this era of gaming, an era which reaches into today. Memories of playing these games, particularly *Super Mario Bros.* and *Duck Hunt* with my sisters, all of us young and mesmerized by the television in our basement, are among some of the earliest memories I have.
 
-1987 saw *The Legend of Zelda, Mike Tyson’s Punch Out, Metroid* and *Castlevania *released, some of the most successful and influential games and franchises of the era.
+1987 saw *The Legend of Zelda, Mike Tyson’s Punch Out, Metroid* and *Castlevania* released, some of the most successful and influential games and franchises of the era.
 
 In 1990, the Nintendo World Championships were held in Hollywood, California. 
 

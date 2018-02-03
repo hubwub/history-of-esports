@@ -6,11 +6,11 @@ Arcades were opening by the hundreds and thousands throughout the United States 
 
 Tens of thousands of arcades existed in America as the golden age kicked off. According to Play Meter Magazine, over a million machines were operating within the country.
 
-Often dimly lit but for the bright screens and the glowing machines, arcades in the golden age of the 1980s were the electric and neon colored Forum Magnums* *for the modern adolescent Americans of the day, centers of their teenage lives and everything that came with it: socializing, truancy, a watchful eye from the police, young friendship, community, animosity and, yes, competition.
+Often dimly lit but for the bright screens and the glowing machines, arcades in the golden age of the 1980s were the electric and neon colored Forum Magnums for the modern adolescent Americans of the day, centers of their teenage lives and everything that came with it: socializing, truancy, a watchful eye from the police, young friendship, community, animosity and, yes, competition.
 
 As arcades and gaming became more popular, the thrill of playing in front of crowds lit a fire under competitors. The race to high scores on a variety of games heated up while game developers and manufacturers took notice.
 
-In 1981, Atari sponsored several major tournaments. In October, a national record for *Asteroids *was set in Manhattan (118,740 according to vidgame.info) at a sanctioned competition. 
+In 1981, Atari sponsored several major tournaments. In October, a national record for *Asteroids* was set in Manhattan (118,740 according to vidgame.info) at a sanctioned competition. 
 
 Later that month, Atari's ill-conceived Coin-Op $50,000 World Championship in Chicago drew a lackluster 250 competitors (some sources report even lower numbers) when over 10,000 were expected. The poor planning and thoughtless expectation of profit was one of the clearest signs of a bloated company leading the video game industry, the blind leading the blind.
 
