@@ -28,47 +28,86 @@ Moving forward, know that esports is ours and not theirs. Good luck and have fun
 
 ---
 
-Thanks to:
+**Thanks to**:
 
 Team Liquid, easily one of the greatest gaming communities of all time.
+
 Duncan Shields (Thorin), gave me my first paid esports job and hasn’t stopped helping me in enormous ways since.
+
 Rod Breslau (Slasher), helped me out endlessly at MLG and beyond.
+
 Marcus Graham (DjWheat), a true believer and a huge pillar of the community.
+
 Masters of Doom by David Kushner, I love this book.
+
 Extra Lives by Tom Bissel, a book which elevates writing about games.
+
 Dungeons and Dreamers by Brad King and John Borland, another good historical read.
+
 Ken Burns for all his work, especially the film Baseball, a beautiful documentary.
+
 Replay by Tristan Donovan, the most fun history book video games have.
+
 The Ultimate History of Video Games by Steve Kent, an invaluable resource.
+
 Frag, a documentary highlighting a bit of history of Western esports.
+
 GotFrag, once upon a time a burning example of gaming journalism.
+
 ESFI for independent esports journalism.
+
 David Sirlin for the awesome resource that is Sirlin.net.
+
 Richard Millington, whose 1990s history articles were a ton of fun and help.
+
 Wikipedia, an absolute embarrassment of riches.
+
 Game Boys by Michael Kane, an outsider’s perspective.
-1up, a great resource.
+
+1UP, a great resource.
+
 Pong-story.com, telling the story of the first games
+
 Every trailblazer chronicled in this book and the ones I left out.
+
 Boxer, for being a gaming icon and a helpful author.
+
 IGN, Rupert Murdoch’s almost benevolent contribution to the world!
+
 Lincoln Ruchti, director of Chasing Ghosts: Beyond the Arcade
+
 Seth Gordon, director of King of Kong: A Fistful of Quarters
+
 Mike Pasley, director of Frag
+
 Jon Boal, director of E-@thlete
+
 Kelly Milkies for her help reaching out to the stars.
+
 Ben Goldhaber (fishstix) for his help reaching out beyond.
+
 Michael “Zlasher” Chan, encouraging and helpful as always.
+
 Heyoka, for writing about the past.
+
 Philip "Nazroth" Hübner, for the DotA help
+
 Lari 'D.Devil' Syrota, for being an esports educator.
+
 Brent, Ted and everyone working hard at ESFI.
+
 Michael ‘Zechs’ Radford, providing serious help.
+
 Anne Celestino for providing help with everything but most incredibly Halo and Counter-Strike.
+
 Forrest Campbell for the sketch of Counter-Strike history provided to all for the love of it.
+
 Adnan "Darthozzan" Dervisevic for the knowledge passed down.
+
 MLG_JV for the substantial Smash history.
+
 Chris Brown (AlphaZealot) for all his Smash help.
+
 TTS for all his Pokemon help.
 
 ---
