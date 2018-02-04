@@ -1,70 +1,13 @@
-“Everybody saw us, kids pointed, cars honked, girls waved. We were gods.”
-
-Walter Day, creator of the U.S. National Video Game Team in 1983, touring the nation.
-
----
-
 # A History of Esports ([history-of-esports](https://github.com/hubwub/history-of-esports))
 
 Written by Patrick Howell O’Neill
 
 Maintained by Anne Celestino
 
-# Index
+-----
 
-1.	[Introduction](01-introduction.md)
-2.	[The Beginning (1950s)](02-the-beginning.md)
-3.	[Spacewar! (1962)](03-spacewar.md)
-4.	[Ralph Baer, The Father of Video Games (1972)](04-ralph-baer.md)
-5.	[Pong (1972)](05-pong.md)
-6.	[Atari’s Prolific Peak (1972)](06-ataris-profilic-peak.md)
-7.	[The First Person Shooter (1974)](07-first-person-shooter.md)
-8.	[The Fighter (1976)](08-fighter.md)
-9.	[Consoles (1976)](09-consoles.md)
-10.	[Space Invaders (1978)](10-space-invaders.md)
-11.	[Rise of Online Gaming (1970s, 1980s)](11-rise-online-games.md)
-12.	[The Golden Age of Arcades (1980s)](12-golden-age-arcades.md)
-13.	[Battlezone (1980)](13-battlezone.md)
-14.	[Hello, Nintendo (1981)](14-hello-nintendo.md)
-15.	[The 1984 bust](15-1984-bust.md)
-16.	[Rise of Nintendo (1983-1990)](16-rise-nintendo.md)
-17.	[Real Time Strategy (1981-1989)](17-real-time-strategy.md)
-18.	[Sports games (1988-1996)](18-sports-games.md)
-19.	[Karate Champ to Street Fighter (1984-1990s)](19-karate-champ-street-fighter.md)
-20.	[Dune 2 and the modern RTS (1992)](20-dune-2-modern-rts.md)
-21.	[The internet (1990s)](21-internet.md)
-22.	[Wolfenstein 3D and Doom (1992-1995)](22-wolfenstein-3d-doom.md)
-23.	[Quake (1996)](23-quake.md)
-24.	[Warcraft (1994)](24-warcraft.md)
-25.	[The CPL and Fatal1ty (1997-2004)](25-cpl-fatality.md)
-26.	[Counter-Strike (1999)](26-counter-strike.md)
-27.	[StarCraft (1998)](27-starcraft.md)
-28.	[The Fighting Game Community (1991-2000s)](28-fighting-game-community.md)
-29.	[Pokemon (1999-2008)](29-pokemon.md)
-30.	[Super Smash Bros. (1999-2008)](30-super-smash-bros.md)
-31.	[Halo (2001-2006)](31-halo.md)
-32.	[The Cyber X Games (2004)](32-cyber-x-games.md)
-33.	[Warcraft 3 (2002-2009)](33-warcraft-3.md)
-34.	[Defense of the Ancients (2003-2009)](34-dota.md)
-35.	[The modern Smash Bros. scene (2002-2012)](35-modern-smash-bros-scene.md)
-36.	[Dystopia (2005)](36-dystopia.md)
-37.	[The CPL at fever pitch (2005)](37-cpl-fever-pitch.md)
-38.	[The decline and fall of the CPL (post-2005)](38-decline-fall-cpl.md)
-39.	[Championship Series Gaming (2005-2008)](39-championship-gaming-series.md)
-40.	[The Street Fighter renaissance (2008)](40-street-fighter-renaissance.md)
-41.	[The esports divide (2005)](41-esports-divide.md)
-42.	[Team Fortress 2 (2007-2012)](42-team-fortress-2.md)
-43.	[Nintendo supports competitive Pokemon (2008)](43-nintendo-supports-competitive-pokemon.md)
-44.	[Brood War’s autumn (2005-2012)](44-brood-wars-autumn.md)
-45.	[Viva la Counter-Strike (2005-2012)](45-viva-la-counter-strike.md)
-46.	[Deathmatch FPS today (2005-2012)](46-deathmatch-fps-today.md)
-47.	[World of Warcraft (2004-2010)](47-world-of-warcraft.md)
-48.	[Call of Duty (2003-2012)](48-call-of-duty.md)
-49.	[Madden and FIFA (2000s)](49-madden-fifa.md)
-50.	[Altitude (2009-2012)](50-altitude.md)
-51.	[Smash today (2012)](51-smash-today.md)
-52.	[StarCraft 2 (2007-2012)](52-starcraft-2.md)
-53.	[DotA today (2009-2012)](53-dota-today.md)
-54.	[Esports journalism (2005-2012)](54-esports-journalism.md)
-55.	[What makes a good competitive game?](55-what-makes-a-good-competitive-game.md)
-56.	[Outro](56-outro.md)
+> Everybody saw us, kids pointed, cars honked, girls waved. We were gods.
+
+Walter Day, creator of the U.S. National Video Game Team in 1983, touring the nation.
+
+---
