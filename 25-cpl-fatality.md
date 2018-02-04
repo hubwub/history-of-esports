@@ -54,7 +54,7 @@ In these pieces from the 2000s, Wendel was often referred to as "the most famous
 
 As far as mainstream exposure is concerned, the height of Fatal1ty’s visibility can likely be pinpointed to March 13, 2003. This was the day that MTV’s documentary series True Life featured Wendel’s first place *Unreal Tournament 2003* run at Winter CPL 2002 as part of an hour long episode focusing on gamers in general.
 
-"Overall, the most accomplished player is definitely Fatal1ty," said esports journalist and tournament organizer Michal Blicharz (Carmac) in 2008. “Gamers like Fatal1ty who are very very successful, especially from a financial point of view, are really very good examples of what you can do if you are very talented and very motivated.”
+"Overall, the most accomplished player is definitely Fatal1ty," said esports journalist and tournament organizer Michal "Carmac" Blicharz in 2008. “Gamers like Fatal1ty who are very very successful, especially from a financial point of view, are really very good examples of what you can do if you are very talented and very motivated.”
 
 Fatal1ty’s success was a symptom of a growing esport. That growth benefited those around him. In 2004, Chinese player Yang "RocketBoy" Meng defeated Wendel in a game of *Doom 3* and earned $120,000, a record. RocketBoy won the 2004 *Doom 3* CPL championship.
 

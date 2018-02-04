@@ -1,6 +1,6 @@
 # CHapter 29 - Pokemon (1999-2008)
 
-*Pokemon*, one of the most popular media franchises of all time, produced two competitive games. The *Pokemon *card game was an immediate international coup for Nintendo. Next, a new organized esport emerged in the *Pokemon* video game.
+*Pokemon*, one of the most popular media franchises of all time, produced two competitive games. The *Pokemon* card game was an immediate international coup for Nintendo. Next, a new organized esport emerged in the *Pokemon* video game.
 
 The competitive *Pokemon* video game is a turn-based fighting game in which the player chooses his *Pokemon* from over 650 different beasts, each possessing their own combat characteristics, and hopes to knock the opposing *Pokemon* out.
 

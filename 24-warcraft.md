@@ -28,7 +28,7 @@ Having begun just a few years prior, the proliferation of online gaming signaled
 
 From a growing number of points on the planet, a person could create or modify a game, compete in a tournament and become a recognized champion, a celebrated competitor in a vigorous niche.
 
-"The biggest difference between *Warcraft 1* and *2* was the multiplayer," Blid continued. "Compared to the sequel, not many people played *Warcraft [1] *multiplayer and it didn't have the same capabilities online. I think with *Warcraft 2*, a lot of people first started playing with modem-play."
+"The biggest difference between *Warcraft 1* and *2* was the multiplayer," Blid continued. "Compared to the sequel, not many people played *Warcraft [1]* multiplayer and it didn't have the same capabilities online. I think with *Warcraft 2*, a lot of people first started playing with modem-play."
 
 From the *Warcraft 2* competitive community, it is easy to trace a direct line to the communities of *StarCraft*, *Warcraft 3* and *StarCraft 2*, three of the most popular and important competitive titles of all time.
 

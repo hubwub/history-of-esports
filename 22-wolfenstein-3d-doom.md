@@ -84,7 +84,7 @@ As *Street Fighter 2* took head to head competition in the arcades to new height
 
 The first major *Doom 2* tournament was held at Microsoft’s "Judgement Day ‘95" a Halloween event held first and foremost to promote Windows as a major gaming platform. It had undeniable star power: Jay Leno entertained and Bill Gates played coy with a shotgun to promote the new Windows’ version of *Doom*.
 
-Dennis Fong (Thresh), an 18 year old born in Hong Kong who had spent half his life in the United States, was one of twenty top gamers as decided by international qualifiers flown in to compete in front of some of the most powerful and well known men in the industry.
+Dennis "Thresh" Fong, an 18 year old born in Hong Kong who had spent half his life in the United States, was one of twenty top gamers as decided by international qualifiers flown in to compete in front of some of the most powerful and well known men in the industry.
 
 Thresh recalled the day’s events with GotFrag.com in 2005.
 

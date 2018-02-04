@@ -32,7 +32,7 @@ GotFrag founder Trevor "Midway" Schmidt called the 2001 championship match was c
 
 The American team X3 (still consisting of first ballot hall of fame players such as Ksharp, Rambo and Bullseye) faced off against the Swedish Ninjas in Pyjamas, NiP (a team with legendary names such as Potti, HeatoN, vesslan, ahl and more).
 
-"Everyone who was there understood that *CS* had changed forever after the match took place," wrote Schmidt for GotFrag. “No longer was *CS* [the] second game behind *Quake*. No longer was *CS* a slow game that no one could understand or follow. *CS *had arrived.”
+"Everyone who was there understood that *CS* had changed forever after the match took place," wrote Schmidt for GotFrag. “No longer was *CS* [the] second game behind *Quake*. No longer was *CS* a slow game that no one could understand or follow. *CS* had arrived.”
 
 Aside from the exciting play of both teams, one of the catalysts toward greatness for this match was *Half-Life* TV (HLTV). Released just a few months prior, HLTV allowed for unprecedented spectator abilities. Spectators and commentators could view matches from absolutely any angle, including from a player’s first person point of view or from an arbitrary point on the map, moving freely at will.
 

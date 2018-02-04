@@ -70,7 +70,7 @@ QuakeNet, now the largest Internet Relay Chat (IRC) server around, was founded i
 
 The 1997 Electronic Entertainment Expo (E3) featured the zenith of Thresh’s competitive gaming star. The event’s Red Annihilation tournament would land him a prize to be remembered. John Carmack’s red Ferrari 328 GTS was parked smack in the middle of the tournament floor waiting for a winner.
 
-From thousands of online competitors, 16 had made the cut to play at E3 including some of the biggest names in *Quake*. WhiteWolf, Cross, Pookie, Reptile, Unholy, Sho2, B2, Kenn, Tony Nusall, Gollum, Kiljoy, rom1, froggy and Ultra.p all showed up to play but eventually fell short. The finalists were Tom Kizmey (Entropy) and Dennis Fong (Thresh). 
+From thousands of online competitors, 16 had made the cut to play at E3 including some of the biggest names in *Quake*. WhiteWolf, Cross, Pookie, Reptile, Unholy, Sho2, B2, Kenn, Tony Nusall, Gollum, Kiljoy, rom1, froggy and Ultra.p all showed up to play but eventually fell short. The finalists were Tom "Entropy" Kizmey and Dennis "Thresh" Fong. 
 
 Thresh dominated Entropy in the finals by a score of 13-1, claiming the royal red car and the lasting fame that came with it. Additionally, GotFrag.com reports that Thresh won a $10,000 Haunted House *Doom* tournament at that same event, adding further to his bank account and his legend.
 
