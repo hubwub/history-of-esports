@@ -10,11 +10,11 @@ As was unavoidable, *Warcraft* was immediately compared to its older brother. Wh
 
 The game developed a major following in Europe as well. The game’s greatest popular success came in China where millions purchased the game, millions more pirated it and many hundreds of thousands competed in the nation’s *Warcraft 3* tournaments.
 
-The South Korean Jang "Moon" Jae Ho is known as probably the greatest *Warcraft 3* player of all time. From the beginning of *Warcraft *competition, Moon quickly emerged as a dominant force in his home country as a Night Elf player. As was widely predicted, he did well around the world when he began to compete internationally in the World Cyber Games and similar tournaments. 
+The South Korean Jang "Moon" Jae Ho is known as probably the greatest *Warcraft 3* player of all time. From the beginning of *Warcraft* competition, Moon quickly emerged as a dominant force in his home country as a Night Elf player. As was widely predicted, he did well around the world when he began to compete internationally in the World Cyber Games and similar tournaments. 
 
 For his uniquely powerful and inventive play, he became known as *Warcraft’s* "5th race." His play was a large contributor to the perception that Night Elf was by far the most powerful race in the game.
 
-In 2005, Moon became a world champion. He would continue to reign in Korean and then Chinese tournaments. He would earn approximately $83,000 during the year, then the largest sum earned in a single year by a *Warcraft *player.
+In 2005, Moon became a world champion. He would continue to reign in Korean and then Chinese tournaments. He would earn approximately $83,000 during the year, then the largest sum earned in a single year by a *Warcraft* player.
 
 The Dutch Orc player Manuel "Grubby" Schenkhuizen had been known as the Western world’s top player since 2004 when he won the World Cyber Games, ESWC and BlizzCon among other major tournaments. He has won multiple individual awards and was one of two protagonists in the 2008 documentary "Beyond the Game".
 

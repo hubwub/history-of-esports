@@ -2,7 +2,7 @@
 
 The Cyber X Games in Las Vegas was one of the major events of 2004.
 
-They were "announced as a revolutionary tournament for *Counter-Strike*, *Warcraft 3*, *Unreal Tournament 2003* and other games with over $600,000 in prize money for all games," wrote D.Devil on TeamLiquid.
+They were "announced as a revolutionary tournament for *Counter-Strike*, *Warcraft 3*, *Unreal Tournament 2003* and other games with over $600,000 in prize money for all games," wrote Lari "D.Devil" Syrota on TeamLiquid.
 
 "Chris Hill and his father, Joe Hill, organized Cyber X Games whose initial event was held at CES [Consumer Electronics Show] in Las Vegas from January 8-11th in 2004," wrote Mark "jESUIT" Cheben on ESEANews.com. “In total $260,00 was to be given away to [*Counter-Strike*] competitors at the event and CXG boasted ATI, AMD and Sennheiser as official sponsors. Joe Hill, with his experience in marketing, sold the event and took care of the sponsor booths. Chris’s responsibility was to organize and run the tournaments.”
 

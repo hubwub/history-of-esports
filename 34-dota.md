@@ -40,11 +40,11 @@ Now you’re starting to get to know Loda.
 
 Below the smiling exterior is an unmistakable intelligence.
 
-Adnan Dervisevic (Darthozzan), the host of MOBA Weekly, played a quick game of word association.
+Adnan "Darthozzan" Dervisevic, the host of MOBA Weekly, played a quick game of word association.
 
 When you think of Loda, what comes to mind?
 
-"Shadow Fiend [a *DotA *hero whose play Loda revolutionized]. Selfish play. The greatest Swedish player of all time," said Darthozzan. “SK.*DotA*. Some of the most entertaining and skillful play that I’ve ever seen. Loda is a bit of a personal hero of mine.”
+"Shadow Fiend [a *DotA* hero whose play Loda revolutionized]. Selfish play. The greatest Swedish player of all time," said Darthozzan. “SK.*DotA*. Some of the most entertaining and skillful play that I’ve ever seen. Loda is a bit of a personal hero of mine.”
 
 Loda’s rise to prominence began while he was still in high school in late 2006. His team JoY won the popular MYM Prime tournament, was promptly sponsored by MYM (Meet Your Makers, an enduring and important organization in the European esports industry) and then went on to win the year’s DreamHack event.
 
